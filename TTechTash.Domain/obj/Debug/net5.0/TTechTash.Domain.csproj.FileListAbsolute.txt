@@ -1,0 +1,15 @@
+C:\Users\Ibrahim Mansour\source\repos\TTechTask\TTechTash.Domain\bin\Debug\net5.0\TTechTash.Domain.deps.json
+C:\Users\Ibrahim Mansour\source\repos\TTechTask\TTechTash.Domain\bin\Debug\net5.0\TTechTash.Domain.runtimeconfig.json
+C:\Users\Ibrahim Mansour\source\repos\TTechTask\TTechTash.Domain\bin\Debug\net5.0\TTechTash.Domain.runtimeconfig.dev.json
+C:\Users\Ibrahim Mansour\source\repos\TTechTask\TTechTash.Domain\bin\Debug\net5.0\TTechTash.Domain.dll
+C:\Users\Ibrahim Mansour\source\repos\TTechTask\TTechTash.Domain\bin\Debug\net5.0\ref\TTechTash.Domain.dll
+C:\Users\Ibrahim Mansour\source\repos\TTechTask\TTechTash.Domain\bin\Debug\net5.0\TTechTash.Domain.pdb
+C:\Users\Ibrahim Mansour\source\repos\TTechTask\TTechTash.Domain\obj\Debug\net5.0\TTechTash.Domain.csproj.AssemblyReference.cache
+C:\Users\Ibrahim Mansour\source\repos\TTechTask\TTechTash.Domain\obj\Debug\net5.0\TTechTash.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim Mansour\source\repos\TTechTask\TTechTash.Domain\obj\Debug\net5.0\TTechTash.Domain.AssemblyInfoInputs.cache
+C:\Users\Ibrahim Mansour\source\repos\TTechTask\TTechTash.Domain\obj\Debug\net5.0\TTechTash.Domain.AssemblyInfo.cs
+C:\Users\Ibrahim Mansour\source\repos\TTechTask\TTechTash.Domain\obj\Debug\net5.0\TTechTash.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim Mansour\source\repos\TTechTask\TTechTash.Domain\obj\Debug\net5.0\TTechTash.Domain.dll
+C:\Users\Ibrahim Mansour\source\repos\TTechTask\TTechTash.Domain\obj\Debug\net5.0\ref\TTechTash.Domain.dll
+C:\Users\Ibrahim Mansour\source\repos\TTechTask\TTechTash.Domain\obj\Debug\net5.0\TTechTash.Domain.pdb
+C:\Users\Ibrahim Mansour\source\repos\TTechTask\TTechTash.Domain\obj\Debug\net5.0\TTechTash.Domain.genruntimeconfig.cache
